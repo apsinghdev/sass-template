@@ -14,7 +14,7 @@
   "license": "ISC",
   "description": "Find a perfect open source project",
   "dependencies": {
-    "@opensox/shared": "*",
+    "@myprj/shared": "*",
     "@prisma/client": "^6.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
